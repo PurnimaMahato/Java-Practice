@@ -1,10 +1,12 @@
 package com.constructor.example;
 
 public class ParameterizedConstructor {
+	//parameterized constructor
 	ParameterizedConstructor(double d){
 		System.out.println("1 argument .");
 		System.out.println(d);
 	}
+	//parameterized constructor
 	ParameterizedConstructor(int a , int b){
 		System.out.println("2 argument .");
 		System.out.println(a);

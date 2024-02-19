@@ -1,6 +1,7 @@
 package com.constructor.example;
 
 public class DefaultConstructor {
+	//Default constructor
 	public DefaultConstructor(){
 		
 		System.out.println("Default constructor");
